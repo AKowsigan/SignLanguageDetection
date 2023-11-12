@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>iloveyou.eab738d0-80a3-11ee-84d1-ac50debd6094.jpg</filename>
+	<path>C:\Users\alaga\OneDrive - INSA Lyon\Documents\INSA\4A\TIP\RealTimeObjectDetection\Tensorflow\workspace\images\collectedImages\iloveyou.eab738d0-80a3-11ee-84d1-ac50debd6094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>166</ymin>
+			<xmax>409</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
