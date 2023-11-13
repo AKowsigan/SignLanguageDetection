@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.ac6b5684-8218-11ee-beab-960c87acb9bd.jpg</filename>
+	<path>C:\Users\Kowsigan\Downloads\SignLanguageDetection\Tensorflow\workspace\images\collectedimages\hedi\collectedimages\yes.ac6b5684-8218-11ee-beab-960c87acb9bd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>559</ymin>
+			<xmax>1572</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>
