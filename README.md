@@ -20,4 +20,5 @@ Lancer le detecteur d'objet tensorflow :
 
 
 Emplacement du dataset : SignLanguageDetection\Tensorflow\workspace\images
+
 Emplacement du modèle entrainé : SignLanguageDetection\Tensorflow\workspace\models\my_ssd_mobnet
