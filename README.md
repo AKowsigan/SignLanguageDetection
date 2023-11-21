@@ -15,7 +15,7 @@ Pré-requis :
 
 Lancer le detecteur d'objet tensorflow : 
 
-- Ouvrir le fichier "Script.ipynb"
+- Ouvrir le fichier "Script.ipynb" sur Jupyter notebook
 - Executer les cellules des parties : 3, 7 et 8
 
 
